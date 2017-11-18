@@ -1,0 +1,762 @@
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe.config
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\bin\Debug\TouristGuide.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Form2.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.History.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V2\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V3\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V4\TouristGuide\obj\Debug\TouristGuide.Reminder.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.Reminder.resources
+C:\Users\Vangelis\Desktop\TouristGuide V5\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V6\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V7\TouristGuide\obj\Debug\TouristGuide.Fotos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V8\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V10\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V11\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Music.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V111\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.exe.config
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.pdb
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\itextsharp.dll
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\itextsharp.xml
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Music.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Main.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.History.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+F:\My Pictures\OneDrive\Έγγραφα\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V12\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Music.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+C:\Users\Vangelis\TouristGuide V13\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V14\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Music.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+C:\Users\Vangelis\Desktop\TouristGuide V14\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Form1.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V15\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Music.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+C:\Users\Vangelis\Desktop\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\itextsharp.dll
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\itextsharp.xml
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.exe.config
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\TouristGuide.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\itextsharp.dll
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\itextsharp.xml
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Music.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Main.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.History.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V16\TouristGuide\obj\Debug\TouristGuide.pdb
+G:\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe.config
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.exe
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.pdb
+G:\TouristGuide\TouristGuide\bin\Debug\TouristGuide.exe
+G:\TouristGuide\TouristGuide\bin\Debug\TouristGuide.pdb
+G:\TouristGuide\TouristGuide\bin\Debug\itextsharp.dll
+G:\TouristGuide\TouristGuide\bin\Debug\itextsharp.xml
+G:\TouristGuide\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Music.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Main.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.History.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+G:\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+G:\TouristGuide\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+G:\TouristGuide\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe.config
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.dll
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.xml
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Music.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Main.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.History.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe.config
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.dll
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.xml
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Music.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Main.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.History.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+C:\Users\Vangelis\Desktop\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe.config
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.dll
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.xml
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Music.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Main.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.History.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.exe
+D:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.exe
+F:\My Pictures\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.pdb
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe.config
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.exe
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\TouristGuide.pdb
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.dll
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\itextsharp.xml
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csprojResolveAssemblyReference.cache
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.AboutBox.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arhitekt.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Arts.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Beach.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Domatia.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Earth.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Calendar.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Kitchen.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenodoxeia.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Ksenones.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Music.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Photos.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Main.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.History.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.MenuBar.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Plirofories.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Properties.Resources.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\WindowsFormsApp1.Register.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Sea.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.Towns.resources
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csproj.GenerateResource.Cache
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.csproj.CoreCompileInputs.cache
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.exe
+F:\OneDrive\Έγγραφα\Πανεπιστήμιο\Β Εξάμηνο\Ταχεία Ανάπτυξη Εφαρμογών (C#)\Τελική Εργασία\Project\TouristGuide V17 FINAL\TouristGuide V17 FINAL\TouristGuide\obj\Debug\TouristGuide.pdb
