@@ -1,5 +1,14 @@
 # TouristGuide
 
+
+# IDE: Visual studio 2017 enterprise
+
+# Language : C#
+
+# Framework : .net
+
+# Window application
+
 A tourist Guide of Crete including access database 
 
 --------------------------------------
