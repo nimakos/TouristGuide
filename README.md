@@ -7,7 +7,7 @@
 
 # Framework : .net
 
-# Window application
+# Windows application
 
 A tourist Guide of Crete including access database 
 
